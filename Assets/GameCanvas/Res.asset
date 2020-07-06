@@ -26,8 +26,7 @@ MonoBehaviour:
   - img8
   VideoClips: []
   AudioClips:
-  - {fileID: 8300000, guid: 1de15e589d7a8b34390587825cc89503, type: 3}
-  - {fileID: 8300000, guid: 13e0b0a1605f21946a2b1f667b0a9091, type: 3}
+  - {fileID: 8300000, guid: aa709f8209efa447a93cd27983906887, type: 3}
   TextAssets: []
   Fonts:
   - {fileID: 12800000, guid: 86bc9d489ff7b104198dbd36a4cb03b3, type: 3}

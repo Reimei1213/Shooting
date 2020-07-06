@@ -66,6 +66,8 @@ public sealed class Game : GameBase
     
     public override void DrawGame()
     {
+        gc.PlaySound(0,true);
+        
         if (gameScene == 0)
         {
             Clear();
