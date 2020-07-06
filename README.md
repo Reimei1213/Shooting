@@ -15,6 +15,6 @@ Unityリモートでは動作確認済です。
 
 ## 素材について
 
-Assets/Res/snd0(DigitalWorld) は [Music-Note.jp](http://www.music-note.jp/bgm/sf.html) 様
+Assets/Res/snd0(DigitalWorld)  [Music-Note.jp](http://www.music-note.jp/bgm/sf.html) 様
 
-Assets/Res/img8 は [いらすとや](https://www.irasutoya.com/) 様　の画像を加工
+Assets/Res/img8   [いらすとや](https://www.irasutoya.com/) 様　の画像を加工

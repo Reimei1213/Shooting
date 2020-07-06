@@ -15,7 +15,6 @@ MonoBehaviour:
   SpriteAtlas: {fileID: 4343727234628468602, guid: d0a284e522c42c245995ad6fb9a53222,
     type: 2}
   ImageIds:
-  - img0
   - img1
   - img2
   - img3
